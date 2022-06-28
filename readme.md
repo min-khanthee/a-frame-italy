@@ -1,5 +1,3 @@
-To add:
+# a-frame-italy
 
-- Pronunciation of each word on click.
-- Red sphere disappears on click.
-- More vocabulary
+VR scene in Menaggio, Italy that helps you learn Italian vocabulary. 
